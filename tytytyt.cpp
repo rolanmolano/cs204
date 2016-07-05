@@ -10,9 +10,9 @@ int a=0;
 
 //cout<<"a.What is the Sum"<<endl;
 //cout<<"b.What is the Product"<<endl;
-cout<<"c.what is the qoutient"<<endl;
-cout<<"d. Swapping"<<endl;
-cout<<"e. If else (even or odd)"<<endl;
+//cout<<"c.what is the qoutient"<<endl;
+//cout<<"d. Swapping"<<endl;
+//cout<<"e. If else (even or odd)"<<endl;
 cout<<"f.Float"<<endl;
 cout<<"g.For loop (even)"<<endl;
 cout<<"h.For loop (Horizontal)"<<endl;
